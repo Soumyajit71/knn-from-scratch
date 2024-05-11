@@ -22,4 +22,4 @@ This project focuses on implementing the classification version of KNN. The step
 1. Ensure you have the required dependencies installed.
 2. Run `main.py` to compare the accuracy of the custom KNN classifier with scikit-learn's KNN classifier.
 # Results
-The accuracy score of both the custom KNN classifier and scikit-learn's KNN classifier are printed in the console are the both vallues are same.
+The accuracy score of both the custom KNN classifier and scikit-learn's KNN classifier are printed in the console are the both values are same.
